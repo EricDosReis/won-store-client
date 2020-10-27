@@ -1,7 +1,17 @@
+import * as S from './styles';
+
 const Main = () => (
-  <main>
-    <h1>React avançado</h1>
-  </main>
+  <S.Wrapper>
+    <S.Title>NextJS Starter</S.Title>
+    <S.Subtitle>
+      NextJS, TypeScript, ReactJS and Styled Components Boilerplate
+    </S.Subtitle>
+
+    <S.Illustration
+      src="/img/hero-illustration.svg"
+      alt="A developer writing some code"
+    />
+  </S.Wrapper>
 );
 
 export default Main;
