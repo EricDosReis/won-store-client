@@ -50,7 +50,7 @@ exports[`<Main /> should render the heading 1`] = `
   <h2
     class="c2"
   >
-    NextJS, TypeScript, ReactJS and Styled Components Boilerplate
+    A simple boilerplate to work with NextJS, TypeScript, React, Jest and Styled Components
   </h2>
   <img
     alt="A developer writing some code"
