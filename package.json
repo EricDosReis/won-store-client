@@ -1,5 +1,6 @@
 {
   "name": "nextjs-boilerplate",
+  "description": "A simple boilerplate to work with NextJS, TypeScript, React, Jest and Styled Components",
   "version": "1.0.0",
   "private": true,
   "scripts": {
